@@ -1,0 +1,2 @@
+.prism-container{position:absolute;inset:0;overflow:hidden;}
+.prism-container canvas{width:100%!important;height:100%!important;display:block;mix-blend-mode:screen;filter:brightness(1.1) saturate(1.2);}

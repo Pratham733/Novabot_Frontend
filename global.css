@@ -1,0 +1,2 @@
+/* Tailwind styles are injected via NativeWind at runtime. This file exists for web to avoid missing import errors. */
+:root { color-scheme: light dark; }
